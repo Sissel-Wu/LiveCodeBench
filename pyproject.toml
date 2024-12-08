@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "livecodebench"
+name = "lcb_runner"
 version = "0.1.0"
 description = "Official Repository for Evaluation of LiveCodeBench"
 authors = ["Naman Jain <naman1205jain@gmail.com>"]
