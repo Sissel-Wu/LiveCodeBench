@@ -1,3 +1,3 @@
-from . import evaluation
-from . import prompts
-from . import benchmarks
+import lcb_runner.evaluation
+import lcb_runner.prompts
+import lcb_runner.benchmarks
