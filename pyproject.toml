@@ -1,5 +1,5 @@
 [project]
-name = "livecodebench"
+name = "lcb_runner"
 version = "0.1.0"
 description = "LiveCodeBench"
 readme = "README.md"
@@ -17,5 +17,5 @@ dependencies = [
     "vllm>=0.6.4.post1",
 ]
 
-[tool.setuptools]
-packages = ["lcb_runner"]
+#[tool.setuptools]
+#packages = ["lcb_runner"]
